@@ -1,5 +1,5 @@
 /*
- * SVG Injector
+ * SVG-Inject
  *
  * Copyright (C) 2018 Boris Raicheff
  * All rights reserved

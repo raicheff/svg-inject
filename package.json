@@ -1,8 +1,8 @@
 {
-  "name": "svg-injector",
-  "description": "SVG Injector",
+  "name": "svg-inject",
+  "description": "SVG-Inject",
   "version": "0.1.0",
-  "homepage": "https://github.com/raicheff/svg-injector",
+  "homepage": "https://github.com/raicheff/svg-inject",
   "author": {
     "name": "Boris Raicheff",
     "email": "b@raicheff.com",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/raicheff/svg-injector.git"
+    "url": "git://github.com/raicheff/svg-inject.git"
   },
   "bugs": {
-    "url": "https://github.com/raicheff/svg-injector/issues"
+    "url": "https://github.com/raicheff/svg-inject/issues"
   },
   "license": "MIT",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "main": "svg-injector.js"
+  "main": "svg-inject.js"
 }
